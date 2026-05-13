@@ -4,6 +4,12 @@
 
 This repository contains my personal portfolio website developed using HTML, CSS, and JavaScript. The website presents my academic background, skills, projects, CV, and contact information.
 
+## Live Website
+
+View the website here:
+
+[Personal Portfolio Website]https://jumanaalothman.me/
+
 ## Pages
 
 - Home
