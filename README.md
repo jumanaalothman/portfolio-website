@@ -8,7 +8,7 @@ This repository contains my personal portfolio website developed using HTML, CSS
 
 View the website here:
 
-[jumanaalothman](https://jumanaalothman.me/)
+[jumana.alothman](https://jumanaalothman.me/)
 
 ## Pages
 
